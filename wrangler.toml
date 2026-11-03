@@ -1,0 +1,14 @@
+name = "mcp-server"
+main = "src/index.js"
+compatibility_date = "2026-07-28"
+
+[observability]
+enabled = true
+
+# ============================================================
+# GANTI NILAI INI DENGAN DATA PANEL KAMU
+# ============================================================
+[vars]
+PTERO_URL    = "https://publickyeepanel9037.buyervps.my.id"
+PTERO_KEY    = "ptlc_6jF5lfnFVJEFITujvwnO5Q78GB4IMhoYMVmdXVAO1fk"
+PTERO_SERVER = "c2d4a726"
